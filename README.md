@@ -14,5 +14,5 @@
 
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+{"postLink":"https://redd.it/13no1nj","subreddit":"memes","title":"Bots...","url":"https://i.redd.it/gowpk7xci51b1.jpg","nsfw":false,"spoiler":false,"author":"mutuallyKneecap983","ups":450,"preview":["https://preview.redd.it/gowpk7xci51b1.jpg?width=108\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=9bfdd057e7bc0eb89861c6c8e3ae53b2b071159f","https://preview.redd.it/gowpk7xci51b1.jpg?width=216\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=3341132a7be825be30d33cfeb9c38d5cbe22d8ba","https://preview.redd.it/gowpk7xci51b1.jpg?width=320\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=34b0d71ed7a6ee371b622000ef2ed31a0073edbb","https://preview.redd.it/gowpk7xci51b1.jpg?width=640\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=f3791b967ec5e36ec81a305b691697bc2d549118","https://preview.redd.it/gowpk7xci51b1.jpg?width=960\u0026crop=smart\u0026auto=webp\u0026v=enabled\u0026s=c78a414e06d5638ca9985e7f151d1e2d96a4e1dd"]}
 
