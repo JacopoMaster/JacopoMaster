@@ -5,7 +5,10 @@
 ## 🌐 Socials:
 <div align="center">
   <img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" align="right" width="480px" height="270px" style="margin-right: 20px;">
-  <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+  
+  <p>If you want to reach out to me about anything, 
+    be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+    
   <p align="center">
     <a href="https://facebook.com/manetti.jacopo" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
