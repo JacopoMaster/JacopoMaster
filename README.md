@@ -46,7 +46,7 @@
     <a href="https://linkedin.com/in/jacopomanetti" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://steamcommunity.com/id/76561198256139339" target="_blank">
+    <a href="https://steamcommunity.com/profiles/76561198256139339/" target="_blank">
       <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"/>
     </a>
     <a href="https://profile.playstation.com/JacopoMugiwara98" target="_blank">
