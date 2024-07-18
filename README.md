@@ -78,12 +78,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p>
  </br>
 
+# 𝑹𝒐𝒘 𝑹𝒐𝒘 𝑭𝒊𝒈𝒉𝒕 𝒕𝒉𝒆 𝒑𝒐𝒘𝒆𝒓!
 
-<img src="https://media.giphy.com/media/12q7JyfK1UolW0/giphy.gif" alt="Gurren Lagann GIF" align="right" width="324" height="480"/>
+<img src="https://media.giphy.com/media/12q7JyfK1UolW0/giphy.gif" alt="Gurren Lagann GIF" align="left" width="324" height="480"/>
 
 
-   # 𝑹𝒐𝒘 𝑹𝒐𝒘 𝑭𝒊𝒈𝒉𝒕 𝒕𝒉𝒆 𝒑𝒐𝒘𝒆𝒓!
-
+   
 
 
 
