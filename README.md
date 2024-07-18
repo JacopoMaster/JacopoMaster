@@ -86,7 +86,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img src="https://media.giphy.com/media/12q7JyfK1UolW0/giphy.gif" alt="Gurren Lagann GIF" align="left" width="324" height="480"/>
 
 <p align="center">
-**That may be, but I still believe. In the me that I believe in. In humanity. In the future. I believe. My drill is my soul!**
+𝑇ℎ𝑎𝑡 𝑚𝑎𝑦 𝑏𝑒, 𝑏𝑢𝑡 𝐼 𝑠𝑡𝑖𝑙𝑙 𝑏𝑒𝑙𝑖𝑒𝑣𝑒. 𝐼𝑛 𝑡ℎ𝑒 𝑚𝑒 𝑡ℎ𝑎𝑡 𝐼 𝑏𝑒𝑙𝑖𝑒𝑣𝑒 𝑖𝑛. 𝐼𝑛 ℎ𝑢𝑚𝑎𝑛𝑖𝑡𝑦. 𝐼𝑛 𝑡ℎ𝑒 𝑓𝑢𝑡𝑢𝑟𝑒. 𝐼 𝑏𝑒𝑙𝑖𝑒𝑣𝑒. 𝑀𝑦 𝑑𝑟𝑖𝑙𝑙 𝑖𝑠 𝑚𝑦 𝑠𝑜𝑢𝑙!
    
 
 
