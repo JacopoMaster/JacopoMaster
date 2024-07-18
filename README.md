@@ -72,6 +72,16 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</br>
+</br>
+</br>
+
+<img src="https://media.giphy.com/media/12q7JyfK1UolW0/giphy.gif" alt="Gurren Lagann GIF" width="324" height="480"/>
+
 </br>
 </br>
 </br>
