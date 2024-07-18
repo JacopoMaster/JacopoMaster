@@ -16,7 +16,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/TUO_ID)
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)](https://profile.playstation.com/TUO_ID)
 
-<img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" width="240" height="135" alt="GIF" style="margin-left: 2000px;" />
+<img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" width="240" height="135" alt="GIF" />
 
 
 # 💻 Tech Stack:
