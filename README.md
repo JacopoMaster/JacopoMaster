@@ -7,13 +7,17 @@
 <div style="display: flex; align-items: center;">
     <img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" width="240" height="135" alt="GIF" style="margin-right: 20px;" />
     
-    If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manetti.jacopo)
-    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jacopo_manetti)
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacopomanetti)
-    [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/TUO_ID)
-    [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)](https://profile.playstation.com/TUO_ID)
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
 </div>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manetti.jacopo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jacopo_manetti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacopomanetti)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/TUO_ID)
+[![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)](https://profile.playstation.com/TUO_ID)
+
+
 
 
 
