@@ -1,8 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm Jacopo! 🎓 I graduated in Computer Science and currently studying Data Science at the University of Florence. 🤖 I'm a big fan of the world of data and AI and always eager to learn more. 💻 As a tech enthusiast, I'm passionate about exploring new trends and technologies. 🔥 Let's make the world a better place together!
-
+<img src="https://giphy.com/embed/Kk4lOcFS9DvRLPG3Je" width="480" height="271">
 
 ## 🌐 Socials:
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manetti.jacopo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jacopo_manetti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacopomanetti) 
 
 # 💻 Tech Stack:
