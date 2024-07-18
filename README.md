@@ -83,7 +83,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img src="https://media.giphy.com/media/12q7JyfK1UolW0/giphy.gif" alt="Gurren Lagann GIF" align="right" width="324" height="480"/>
 
 <p align="center">
-   <span style="font-size: 24px;">𝑹𝒐𝒘 𝑹𝒐𝒘 𝑭𝒊𝒈𝒉𝒕 𝒕𝒉𝒆 𝒑𝒐𝒘𝒆𝒓!</span>
+   <span style="font-size: 240px;">𝑹𝒐𝒘 𝑹𝒐𝒘 𝑭𝒊𝒈𝒉𝒕 𝒕𝒉𝒆 𝒑𝒐𝒘𝒆𝒓!</span>
 
 
 
