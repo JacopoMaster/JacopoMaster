@@ -3,20 +3,29 @@
 
 
 
-## 🌐 Socials:
-<div style="display: flex; align-items: center;">
-    
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
+<div align="center">
+  <img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" align="left" width="240px" height="135px" style="margin-right: 20px;">
+  <p>Hewe awe some of my <br>
+  most used s-s-sociaw things >~< xoxox</p>
+  <p align="center">
+    <a href="https://facebook.com/manetti.jacopo" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/jacopo_manetti" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+    </a>
+    <a href="https://linkedin.com/in/jacopomanetti" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://steamcommunity.com/id/TUO_ID" target="_blank">
+      <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"/>
+    </a>
+    <a href="https://profile.playstation.com/TUO_ID" target="_blank">
+      <img src="https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white"/>
+    </a>
+  </p>
 </div>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manetti.jacopo)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jacopo_manetti)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacopomanetti)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/TUO_ID)
-[![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)](https://profile.playstation.com/TUO_ID)
-
-<img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" width="480" height="270" alt="GIF" />
 
 
 # 💻 Tech Stack:
