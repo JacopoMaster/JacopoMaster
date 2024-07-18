@@ -27,7 +27,7 @@
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <p>
  </br>
