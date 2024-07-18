@@ -2,12 +2,20 @@
 👋 Hi, I'm Jacopo! 🎓 I graduated in Computer Science and currently studying Data Science at the University of Florence. 🤖 I'm a big fan of the world of data and AI and always eager to learn more. 💻 As a tech enthusiast, I'm passionate about exploring new trends and technologies. 🔥 Let's make the world a better place together!
 
 
-<img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" width="480" height="271" alt="GIF" />
-
 
 ## 🌐 Socials:
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manetti.jacopo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jacopo_manetti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacopomanetti) 
+<div style="display: flex; align-items: center;">
+    <img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" width="240" height="135" alt="GIF" style="margin-right: 20px;" />
+    
+    If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+    [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manetti.jacopo)
+    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jacopo_manetti)
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jacopomanetti)
+    [![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/TUO_ID)
+    [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white)](https://profile.playstation.com/TUO_ID)
+</div>
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
