@@ -12,5 +12,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<iframe src="https://giphy.com/embed/12q7JyfK1UolW0" width="324" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gurren-lagann-12q7JyfK1UolW0">via GIPHY</a></p>
 
 
