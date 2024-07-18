@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <div align="center">
-  <img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" align="left" width="240px" height="135px" style="margin-right: 20px;">
+  <img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" align="right" width="240px" height="135px" style="margin-right: 20px;">
   <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
   <p align="center">
     <a href="https://facebook.com/manetti.jacopo" target="_blank">
@@ -26,7 +26,7 @@
 </div>
 
 
-
+<div align="left">
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 
