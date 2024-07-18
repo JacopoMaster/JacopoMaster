@@ -1,7 +1,7 @@
 # Welcome 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/dOeQ5ghI0n5kc/giphy.gif">
+<img hight="450" width="1050" alt="GIF" align="center" src="https://media.giphy.com/media/dOeQ5ghI0n5kc/giphy.gif">
 </div>
 
 </br>
