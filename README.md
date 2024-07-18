@@ -7,9 +7,10 @@
 <div style="display: flex; align-items: center;">
     <img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" width="240" height="135" alt="GIF" style="margin-right: 20px;" />
     
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
+    If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 </div>
+
+<br> <!-- Linea vuota per separare -->
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manetti.jacopo)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jacopo_manetti)
