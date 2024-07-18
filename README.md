@@ -12,6 +12,9 @@
 # About ME 💬 :
 
 ### - 👋 Hi, I'm Jacopo! 🎓 I graduated in Computer Science and currently studying Data Science at the University of Florence. 🤖 I'm a big fan of the world of data and AI and always eager to learn more. 💻 As a tech enthusiast, I'm passionate about exploring new trends and technologies. 🔥 Let's make the world a better place together!
+</br>
+</br>
+</br>
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
@@ -32,9 +35,8 @@
 # 💻 Tech Stack:
 </br>
 
-<p align="center">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-</p>
+
 </br>
 </br>
 </br>
@@ -79,13 +81,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
 
 *************
 
