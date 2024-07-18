@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Jacopo! 🎓 I graduated in Computer Science and currently studying Data Science at the University of Florence. 🤖 I'm a big fan of the world of data and AI and always eager to learn more. 💻 As a tech enthusiast, I'm passionate about exploring new trends and technologies. 🔥 Let's make the world a better place together!
-<img src="https://giphy.com/embed/Kk4lOcFS9DvRLPG3Je" width="480" height="271">
+<img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" width="480" height="271" alt="GIF" />
+
 
 ## 🌐 Socials:
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
