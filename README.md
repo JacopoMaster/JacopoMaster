@@ -37,7 +37,7 @@
 <img hight="270" width="480" align="right" alt="GIF" src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif">
 
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+<p align="center">If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <p align="center">
     <a href="https://facebook.com/manetti.jacopo" target="_blank">
