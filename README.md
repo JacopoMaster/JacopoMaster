@@ -2,11 +2,10 @@
 👋 Hi, I'm Jacopo! 🎓 I graduated in Computer Science and currently studying Data Science at the University of Florence. 🤖 I'm a big fan of the world of data and AI and always eager to learn more. 💻 As a tech enthusiast, I'm passionate about exploring new trends and technologies. 🔥 Let's make the world a better place together!
 
 
-
+## 🌐 Socials:
 <div align="center">
   <img src="https://media.giphy.com/media/Kk4lOcFS9DvRLPG3Je/giphy.gif" align="left" width="240px" height="135px" style="margin-right: 20px;">
-  <p>Hewe awe some of my <br>
-  most used s-s-sociaw things >~< xoxox</p>
+  <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
   <p align="center">
     <a href="https://facebook.com/manetti.jacopo" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
@@ -17,10 +16,10 @@
     <a href="https://linkedin.com/in/jacopomanetti" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://steamcommunity.com/id/TUO_ID" target="_blank">
+    <a href="https://steamcommunity.com/id/JacopoMugiwara98" target="_blank">
       <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white"/>
     </a>
-    <a href="https://profile.playstation.com/TUO_ID" target="_blank">
+    <a href="https://profile.playstation.com/JacopoMugiwara98" target="_blank">
       <img src="https://img.shields.io/badge/PlayStation-003791?style=flat&logo=playstation&logoColor=white"/>
     </a>
   </p>
