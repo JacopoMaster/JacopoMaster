@@ -64,6 +64,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 *************
+</br>
+</br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -78,7 +80,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 <img src="https://media.giphy.com/media/12q7JyfK1UolW0/giphy.gif" alt="Gurren Lagann GIF" align="right" width="324" height="480"/>
 
-<div style="font-family: 'Algerian', sans-serif; font-size: 18px; font-weight: bold; text-align: center;">
+<div style="font-family: 'Algerian'; font-size: 18px; font-weight: bold; text-align: center;">
     Row Row Fight the power!
 </div>
 
@@ -89,6 +91,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 
-*************
+
 
 
